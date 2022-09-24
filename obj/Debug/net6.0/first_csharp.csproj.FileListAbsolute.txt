@@ -1,0 +1,15 @@
+/Users/syem/Desktop/first_csharp/bin/Debug/net6.0/first_csharp
+/Users/syem/Desktop/first_csharp/bin/Debug/net6.0/first_csharp.deps.json
+/Users/syem/Desktop/first_csharp/bin/Debug/net6.0/first_csharp.runtimeconfig.json
+/Users/syem/Desktop/first_csharp/bin/Debug/net6.0/first_csharp.dll
+/Users/syem/Desktop/first_csharp/bin/Debug/net6.0/first_csharp.pdb
+/Users/syem/Desktop/first_csharp/obj/Debug/net6.0/first_csharp.csproj.AssemblyReference.cache
+/Users/syem/Desktop/first_csharp/obj/Debug/net6.0/first_csharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/syem/Desktop/first_csharp/obj/Debug/net6.0/first_csharp.AssemblyInfoInputs.cache
+/Users/syem/Desktop/first_csharp/obj/Debug/net6.0/first_csharp.AssemblyInfo.cs
+/Users/syem/Desktop/first_csharp/obj/Debug/net6.0/first_csharp.csproj.CoreCompileInputs.cache
+/Users/syem/Desktop/first_csharp/obj/Debug/net6.0/first_csharp.dll
+/Users/syem/Desktop/first_csharp/obj/Debug/net6.0/refint/first_csharp.dll
+/Users/syem/Desktop/first_csharp/obj/Debug/net6.0/first_csharp.pdb
+/Users/syem/Desktop/first_csharp/obj/Debug/net6.0/first_csharp.genruntimeconfig.cache
+/Users/syem/Desktop/first_csharp/obj/Debug/net6.0/ref/first_csharp.dll
